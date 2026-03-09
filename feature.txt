@@ -1,0 +1,15 @@
+# Feature Description
+
+## Overview
+This document describes the features of the DevOps FilRouge project.
+
+## Features
+- Feature 1: Continuous Integration (CI) pipeline
+- Feature 2: Continuous Deployment (CD) pipeline
+- Feature 3: Automated testing
+- Feature 4: Infrastructure as Code (IaC)
+
+## Status
+- [ ] In Progress
+- [ ] Completed
+- [ ] Pending Review
